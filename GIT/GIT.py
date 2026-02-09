@@ -1,0 +1,1 @@
+print("Ariful Task A")
